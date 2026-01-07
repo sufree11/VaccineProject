@@ -1,0 +1,19 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "VaccineManager",
+            "request": "launch",
+            "mainClass": "PROPOSAL.VaccineManager",
+            "projectName": "VaccineProject_c6b97c1a"
+        },
+        {
+            "type": "java",
+            "name": "Launch VaccineGUI",
+            "request": "launch",
+            "mainClass": "PROPOSAL.VaccineGUI",
+            "vmArgs": "--module-path \"C:\\Users\\ASUS\\Downloads\\javafx-sdk-25.0.1\\lib\" --add-modules javafx.controls,javafx.fxml"
+        }
+    ]
+}
