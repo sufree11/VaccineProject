@@ -1,16 +1,13 @@
 {
-    "java.project.referencedLibraries": [
-        "lib/**/*.jar",
-        "c:\\Users\\ASUS\\Downloads\\javafx-sdk-25.0.1\\lib\\javafx.base.jar",
-        "c:\\Users\\ASUS\\Downloads\\javafx-sdk-25.0.1\\lib\\javafx.controls.jar",
-        "c:\\Users\\ASUS\\Downloads\\javafx-sdk-25.0.1\\lib\\javafx.fxml.jar",
-        "c:\\Users\\ASUS\\Downloads\\javafx-sdk-25.0.1\\lib\\javafx.graphics.jar",
-        "c:\\Users\\ASUS\\Downloads\\javafx-sdk-25.0.1\\lib\\javafx.media.jar",
-        "c:\\Users\\ASUS\\Downloads\\javafx-sdk-25.0.1\\lib\\javafx.swing.jar",
-        "c:\\Users\\ASUS\\Downloads\\javafx-sdk-25.0.1\\lib\\javafx.web.jar",
-        "c:\\Users\\ASUS\\Downloads\\javafx-sdk-25.0.1\\lib\\javafx-swt.jar",
-        "c:\\Users\\ASUS\\Downloads\\javafx-sdk-25.0.1\\lib\\jdk.jsobject.jar",
-        "c:\\Users\\ASUS\\Downloads\\javafx-sdk-25.0.1\\lib\\jfx.incubator.input.jar",
-        "c:\\Users\\ASUS\\Downloads\\javafx-sdk-25.0.1\\lib\\jfx.incubator.richtext.jar"
+    "java.project.sourcePaths": ["src"],
+    "java.project.outputPath": "target/classes",
+    "java.project.referencedLibraries": ["lib/**/*.jar"],
+    "java.jdt.ls.java.home": "C:\\Users\\ASUS\\AppData\\Local\\jdks\\jdk-25.0.2",
+    "java.configuration.runtimes": [
+        {
+            "name": "JavaSE-25",
+            "path": "C:\\Users\\ASUS\\AppData\\Local\\jdks\\jdk-25.0.2",
+            "default": true
+        }
     ]
 }
