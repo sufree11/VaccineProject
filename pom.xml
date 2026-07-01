@@ -20,36 +20,70 @@
     </properties>
 
     <dependencies>
+<<<<<<< HEAD
+=======
+        <!-- JavaFX Controls -->
+>>>>>>> 9537ac9c4433198ececfb66135e6f251fef675ec
         <dependency>
             <groupId>org.openjfx</groupId>
             <artifactId>javafx-controls</artifactId>
             <version>${javafx.version}</version>
         </dependency>
+<<<<<<< HEAD
+=======
+
+        <!-- JavaFX FXML -->
+>>>>>>> 9537ac9c4433198ececfb66135e6f251fef675ec
         <dependency>
             <groupId>org.openjfx</groupId>
             <artifactId>javafx-fxml</artifactId>
             <version>${javafx.version}</version>
         </dependency>
+<<<<<<< HEAD
+=======
+
+        <!-- JavaFX Graphics -->
+>>>>>>> 9537ac9c4433198ececfb66135e6f251fef675ec
         <dependency>
             <groupId>org.openjfx</groupId>
             <artifactId>javafx-graphics</artifactId>
             <version>${javafx.version}</version>
         </dependency>
+<<<<<<< HEAD
+=======
+
+        <!-- JavaFX Base -->
+>>>>>>> 9537ac9c4433198ececfb66135e6f251fef675ec
         <dependency>
             <groupId>org.openjfx</groupId>
             <artifactId>javafx-base</artifactId>
             <version>${javafx.version}</version>
         </dependency>
+<<<<<<< HEAD
+=======
+
+        <!-- JavaFX Media -->
+>>>>>>> 9537ac9c4433198ececfb66135e6f251fef675ec
         <dependency>
             <groupId>org.openjfx</groupId>
             <artifactId>javafx-media</artifactId>
             <version>${javafx.version}</version>
         </dependency>
+<<<<<<< HEAD
+=======
+
+        <!-- JavaFX Swing -->
+>>>>>>> 9537ac9c4433198ececfb66135e6f251fef675ec
         <dependency>
             <groupId>org.openjfx</groupId>
             <artifactId>javafx-swing</artifactId>
             <version>${javafx.version}</version>
         </dependency>
+<<<<<<< HEAD
+=======
+
+        <!-- JavaFX Web -->
+>>>>>>> 9537ac9c4433198ececfb66135e6f251fef675ec
         <dependency>
             <groupId>org.openjfx</groupId>
             <artifactId>javafx-web</artifactId>
@@ -58,8 +92,13 @@
     </dependencies>
 
     <build>
+<<<<<<< HEAD
         <sourceDirectory>src</sourceDirectory>
         <plugins>
+=======
+        <plugins>
+            <!-- Maven Compiler Plugin -->
+>>>>>>> 9537ac9c4433198ececfb66135e6f251fef675ec
             <plugin>
                 <groupId>org.apache.maven.plugins</groupId>
                 <artifactId>maven-compiler-plugin</artifactId>
@@ -70,6 +109,10 @@
                 </configuration>
             </plugin>
 
+<<<<<<< HEAD
+=======
+            <!-- JavaFX Maven Plugin for running JavaFX applications -->
+>>>>>>> 9537ac9c4433198ececfb66135e6f251fef675ec
             <plugin>
                 <groupId>org.openjfx</groupId>
                 <artifactId>javafx-maven-plugin</artifactId>
@@ -79,6 +122,10 @@
                 </configuration>
             </plugin>
 
+<<<<<<< HEAD
+=======
+            <!-- Maven JAR Plugin -->
+>>>>>>> 9537ac9c4433198ececfb66135e6f251fef675ec
             <plugin>
                 <groupId>org.apache.maven.plugins</groupId>
                 <artifactId>maven-jar-plugin</artifactId>

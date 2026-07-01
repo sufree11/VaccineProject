@@ -9,5 +9,6 @@
             "path": "C:\\Users\\ASUS\\AppData\\Local\\jdks\\jdk-25.0.2",
             "default": true
         }
-    ]
+    ],
+    "java.configuration.updateBuildConfiguration": "interactive"
 }
